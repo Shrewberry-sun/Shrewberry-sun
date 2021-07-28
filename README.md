@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sruti Dhulipala, your Senior Manager, Global Brand Strategy
+- 👀 I’m always fascinated by the intersection of technology, culture, brands, and human behavior. I love keeping a pulse on trends as they are often great predictors of innovation.
+- 🌱 I’m currently learning permaculture, yoga, and very recently, how to use GitHub!
+- 💞️ I’m looking to collaborate on all things related to the awareness, brand perception, and adoption of Sourcegraph.
